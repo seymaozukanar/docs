@@ -12,7 +12,7 @@ title: Algorand Developer Docs
         </a>
     </li>
     {% endverbatim %}
-        {% generate_challenge_thumbnail challenge=challenge %}
+        {% generate_challenge_thumbnail challenge_slug="challenge1" %}
     {% verbatim %}
     
     <li class="docs-homepage__card-list-item">
