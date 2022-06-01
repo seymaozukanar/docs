@@ -11,6 +11,7 @@ title: Algorand Developer Docs
             <p class="typography--regular-body docs-homepage__card__description">Start here to learn the basics</p>
         </a>
     </li>
+    {{ test }}
     <li class="docs-homepage__card-list-item">
         <a class="docs-homepage__card" href="./get-details/">
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--purple">
