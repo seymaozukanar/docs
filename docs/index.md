@@ -11,9 +11,9 @@ title: Algorand Developer Docs
             <p class="typography--regular-body docs-homepage__card__description">Start here to learn the basics</p>
         </a>
     </li>
-    {% endverbatim %}
-    {% generate_challenge_thumbnail challenge=challenge %}
-    {% verbatim %}
+    {% raw %}{% endverbatim %}{% endraw %}
+        {% generate_challenge_thumbnail challenge=challenge %}
+    {% raw %}{% verbatim %}{% endraw %}
     
     <li class="docs-homepage__card-list-item">
         <a class="docs-homepage__card" href="./get-details/">
