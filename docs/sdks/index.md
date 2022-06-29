@@ -3,7 +3,7 @@ title: Section Index
 
 {% raw %}
 {% endverbatim %}
-{% generate_challenge_thumbnail challenge_slug="challenge-1" %}
+{% generate_challenge_thumbnail challenge_slug="challenge1" %}
 {% verbatim %}
 {% endraw %}
 
