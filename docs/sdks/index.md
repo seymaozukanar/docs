@@ -1,10 +1,10 @@
 title: Section Index 
 
-
+{% raw %}
 {% endverbatim %}
 {% generate_challenge_thumbnail challenge_slug="challenge1" %}
 {% verbatim %}
-
+{% endraw %}
 
 The **SDKs** section contains documentation and how-tos for all Algorand Developed SDKs. Code examples are embedded throughout in each of the SDKs.
 
