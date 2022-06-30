@@ -14,7 +14,7 @@ title: Algorand Developer Docs
     {% endverbatim %}
         {% generate_challenge_thumbnail challenge_slug="challenge1" %}
     {% verbatim %}
-    
+ 
     <li class="docs-homepage__card-list-item">
         <a class="docs-homepage__card" href="./get-details/">
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--purple">
