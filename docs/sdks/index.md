@@ -1,9 +1,10 @@
 title: Section Index 
 
+{% raw %}
 {% endverbatim %}
 {% generate_challenge_thumbnail challenge_slug="challenge1" %}<p/>
 {% verbatim %}
-
+{% endraw %}
 The **SDKs** section contains documentation and how-tos for all Algorand Developed SDKs. Code examples are embedded throughout in each of the SDKs.
 
 You can use the SDKs to interact with the network by connecting to one of the REST servers and submitting requests for data or submitting transactions.   They also contain methods to help construct and sign transactions or deal with encoding/decoding of things like addresses and mnemonics.
