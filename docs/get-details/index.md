@@ -17,7 +17,9 @@ The **Get Details** section contains explanations and how-tos for all Algorand f
 [Offline signatures](transactions/offline_transactions) - How to authorize transactions _without_ requiring an internet connection.
 
 [URI scheme](transactions/payment_prompts.md) - This URI specification represents a standardized way for applications and websites to send requests and information through deeplinks, QR codes, etc.
-
+{% endverbatim %}
+{% generate_challenge_thumbnail challenge_slug="challenge1" %}
+{% verbatim %}
 [Transaction reference](transactions/transactions.md) - A reference guide for each transaction Algorand supports.
 # Assets
 [Algorand Standard Assets Overview](asa) - Learn all about assets and how they are implemented on Algorand at layer-1.
