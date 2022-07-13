@@ -1,5 +1,7 @@
 title: Your First Transaction
-
+{% endverbatim %}
+{% generate_challenge_thumbnail challenge_slug="<challenge1>" %}
+{% verbatim %}
 This section is a quick start guide for sending your first transaction on the Algorand TestNet network using the Go programming language. This guide installs the Go SDK, creates an account and submits a payment transaction. This guide also installs Algorand Sandbox, which provides required infrastructure for development and testing. 
 
 !!! Info
