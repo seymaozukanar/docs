@@ -1,7 +1,9 @@
 title: Install a node
 # Overview
 This guide explains how to install the Algorand Node software on Linux distributions and Mac OS. When installing on Linux, two installation methods are covered: by package manager and by updater script.
-
+{% endverbatim %}
+{% generate_challenge_thumbnail challenge_slug="challenge1" %}
+{% verbatim %}
 [The package manager method](#installation-with-a-package-manager) uses fixed directories and automatically updates. It has been validated on Debian, Ubuntu, Fedora, and CentOS.
 
 [The updater script method](#installation-with-the-updater-script) allows manually setting data directories and requires manual updates. It has been tested on the same Linux distributions from above, as well as on openSUSE Leap, Manjaro, Mageia, Alpine, and Solus.
