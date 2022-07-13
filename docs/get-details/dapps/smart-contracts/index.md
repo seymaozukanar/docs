@@ -1,6 +1,6 @@
 title: Introduction
 {% endverbatim %}
-{% generate_challenge_thumbnail challenge_slug="<challenge1>" %}
+{% generate_challenge_thumbnail challenge_slug="challenge1" %}
 {% verbatim %}
 Algorand Smart Contracts (ASC1) are small programs that serve various functions on the blockchain and operate on layer-1. Smart contracts are separated into two main categories, smart contracts, and smart signatures. These types are also referred to as stateful and stateless contracts respectively. The type of contract that is written will determine when and how the logic of the program is evaluated. See the following sections to understand how each type of contract is used on the Algorand blockchain. Both types of contracts are written in the [Transaction Execution Approval Language (TEAL)](../avm/teal), which is an assembly-like language that is interpreted by the [Algorand Virtual Machine (AVM)](../avm) running within an Algorand node. TEAL programs can be written by hand or by using the Python language with the PyTEAL compiler. 
 
