@@ -17,7 +17,9 @@ title: Algorand Developer Docs
       {% include "button-right-arrow.svg" %}
     </a>
 </div>
-
+{% endverbatim %}
+{% generate_challenge_thumbnail challenge_slug="1" %}
+{% verbatim %}
 # Top-level sections
 <ul class="docs-homepage__card-list">
     <li class="docs-homepage__card-list-item">
@@ -29,6 +31,7 @@ title: Algorand Developer Docs
             <p class="typography--regular-body docs-homepage__card__description">Start here to learn the basics</p>
         </a>
     </li>
+    
     <li class="docs-homepage__card-list-item">
         <a class="docs-homepage__card" href="./get-details/">
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--purple">
@@ -108,6 +111,4 @@ title: Algorand Developer Docs
     </li>
 </ul>
 
-{% endverbatim %}
-{% generate_challenge_thumbnail challenge_slug="1" %}
-{% verbatim %}
+
