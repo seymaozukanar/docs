@@ -1,7 +1,5 @@
 title: Algorand Developer Docs
-{% endverbatim %}
-    {% generate_challenge_thumbnail challenge_slug="challenge1" %}
-{% verbatim %}
+
 # Top-level sections
 <ul class="docs-homepage__card-list">
     <li class="docs-homepage__card-list-item">
@@ -13,7 +11,9 @@ title: Algorand Developer Docs
             <p class="typography--regular-body docs-homepage__card__description">Start here to learn the basics</p>
         </a>
     </li>
-
+{% endverbatim %}
+    {% generate_challenge_thumbnail challenge_slug="challenge1" %}
+{% verbatim %}
  
     <li class="docs-homepage__card-list-item">
         <a class="docs-homepage__card" href="./get-details/">
