@@ -13,9 +13,6 @@ You can use the SDKs to interact with the network by connecting to one of the RE
 * [Python Repository](https://github.com/algorand/py-algorand-sdk)
 * [Python Docs](https://py-algorand-sdk.readthedocs.io/en/latest/)
 
-{% endverbatim %}
-{% generate_challenge_thumbnail challenge_slug="challenge1" %}
-{% verbatim %}
 
 2. JavaScript
 
