@@ -1,4 +1,6 @@
 title: Section Index
+1. lorem
+2. ipsum
 
 The **Get Details** section contains explanations and how-tos for all Algorand features. Code examples are embedded throughout in each of the SDKs and command line interface tools.
 
