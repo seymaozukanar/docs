@@ -1,4 +1,7 @@
 title: What is a blockchain? 
+1. seyma
+2. 141
+3. seyma
 
 <center>
 ![Blockchain versus traditional database](../../imgs/basics-blockchain-vs-traditional.png){: style="width:500px" align=center }
