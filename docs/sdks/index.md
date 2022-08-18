@@ -7,8 +7,7 @@ You can use the SDKs to interact with the network by connecting to one of the RE
 
 
 ## Algorand supported
-
-### Python
+1. Python
 
 * [Python Section](./python/)
 * [Python Repository](https://github.com/algorand/py-algorand-sdk)
@@ -18,13 +17,13 @@ You can use the SDKs to interact with the network by connecting to one of the RE
 {% generate_challenge_thumbnail challenge_slug="challenge1" %}
 {% verbatim %}
 
-### JavaScript
+2. JavaScript
 
 * [JavaScript Section](./javascript/)
 * [JavaScript Repository](https://github.com/algorand/js-algorand-sdk)
 * [JavaScript Docs](https://algorand.github.io/js-algorand-sdk/)
 
-### Go
+3. Go
 
 * [Go Section](./go/)
 * [Go Repository](https://github.com/algorand/go-algorand-sdk)
